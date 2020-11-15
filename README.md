@@ -1,4 +1,4 @@
-# -原比赛链接：https://www.datafountain.cn/competitions/337
+# 原比赛链接：https://www.datafountain.cn/competitions/337
 这个题目是一个回归任务，通过身份特征、消费能力、人脉关系、位置轨迹、应用行为偏好信息来预测中国移动用户的信用分。
 由于最近找实习需要，所以将其上传到github，之前的一些探索过程代码没有保留下来，只有最后一版代码文件。
 
